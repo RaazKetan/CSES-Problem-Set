@@ -2,6 +2,7 @@
 #define ll long long
 using namespace std;
 
+//TC: O(n)
 // Function to find the minimum number of moves
 ll solve(ll* arr, ll N)
 {

@@ -8,7 +8,7 @@ using namespace std;
 //  5 6 7    12 23
 //  16 15 14 13 22
 //  17 18 19 20 21
- 
+ //TC: O(n)
 int main()
 {
     int n;

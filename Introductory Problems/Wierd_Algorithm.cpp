@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//TC: O(n)
 int main(){
     long long n;
     cin>>n;

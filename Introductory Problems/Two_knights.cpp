@@ -2,7 +2,7 @@
 #define ll long long
 using namespace std;
  
- 
+ //TC: O(n)
 int main()
 {
     int n;

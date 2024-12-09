@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
  
- 
+//TC: O(n)
  void Permutation(int n){
     if  (n == 2 || n == 3){
         cout<<"NO SOLUTION";
